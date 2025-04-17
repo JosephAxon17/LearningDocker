@@ -1,0 +1,9 @@
+Commands in Docker
+
+docker build -t docker-experiment .
+Docker build
+docker image ls
+Docker run 
+ps -a
+docker stop <container_name_or_id>
+docker container prune
