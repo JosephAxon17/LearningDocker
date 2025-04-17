@@ -7,7 +7,7 @@
  git status
  git commit -m "Created Read Me" -m "Second Repo"
  git status
- git push origin master
+ git push origin main
  Create an empty repo on Github
  git remote add origin "URLto repo"
  ------------------------------------------------------
