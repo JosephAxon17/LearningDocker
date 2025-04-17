@@ -1,0 +1,20 @@
+ git clone ssh/url
+ git push url 
+----------------------------------------------------- 
+ git init
+ git status
+ git add.
+ git status
+ git commit -m "Created Read Me" -m "Second Repo"
+ git status
+ git push origin master
+ Create an empty repo on Github
+ git remote add origin "URLto repo"
+ ------------------------------------------------------
+ Create a new branch
+ git checkout -b name
+ git push -u origin master
+ git push --set-upstream origin name
+ branch checkout Master
+ git pull origin master
+ git branch -d name
